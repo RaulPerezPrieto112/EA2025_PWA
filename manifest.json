@@ -1,0 +1,80 @@
+{
+    "name": "Raúl Eduardo Pérez Prieto",
+    "short_name": "Raúl PWA",
+    "description": "Portafolio de Raúl Eduardo Pérez Prieto, desarrollador de software multiplataforma.",
+    "background_color": "#f1191c",
+    "theme_color": "#f1191c",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./Index.html?utm_source=web_app_manifest",
+    "scope": "/",
+    "lang": "es-MX",
+    "icons": [
+        {
+            "src": "img/m16x16.jpg",
+            "sizes": "16x16",
+            "type": "image/jpeg",
+            "purpose": "any"
+        },
+        {
+            "src": "img/m32x32.jpg",
+            "sizes": "32x32",
+            "type": "image/jpeg",
+            "purpose": "any"
+        },
+        {
+            "src": "img/m64x64.jpg",
+            "sizes": "64x64",
+            "type": "image/jpeg",
+            "purpose": "any"
+        },
+        {
+            "src": "img/m96x96.jpg",
+            "sizes": "96x96",
+            "type": "image/jpeg",
+            "purpose": "any"
+        },
+        {
+            "src": "img/m128x128.jpg",
+            "sizes": "128x128",
+            "type": "image/jpeg",
+            "purpose": "any"
+        },
+        {
+            "src": "img/m144x144.jpg",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "img/m192x192.jpg",
+            "sizes": "192x192",
+            "type": "image/jpeg",
+            "purpose": "any"
+        },
+        {
+            "src": "img/m256x256.jpg",
+            "sizes": "256x256",
+            "type": "image/jpeg",
+            "purpose": "any"
+        },
+        {
+            "src": "img/m384x384.jpg",
+            "sizes": "384x384",
+            "type": "image/jpeg",
+            "purpose": "any"
+        },
+        {
+            "src": "img/m512x512.jpg",
+            "sizes": "512x512",
+            "type": "image/jpeg",
+            "purpose": "any"
+        },
+        {
+            "src": "img/m1024x1024.jpg",
+            "sizes": "1024x1024",
+            "type": "image/jpeg",
+            "purpose": "any"
+        }
+    ]
+}
